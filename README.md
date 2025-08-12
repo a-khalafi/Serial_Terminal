@@ -5,6 +5,8 @@ Overview:
 
 This is a serial terminal application developed in Python with a Tkinter graphical user interface. It allows users to communicate with serial devices via serial ports, send commands, and view responses in real-time. The program features:
 
+<img width="828" height="536" alt="image" src="https://github.com/user-attachments/assets/887cf519-e9bd-4201-a8a0-1259a0f7462c" />
+
 Listing and selecting available serial ports
 
 Configurable baud rate and connection parameters
@@ -59,4 +61,5 @@ Setup for using 2 application in two PC windows in same network:
 
 3. On Serial Terminal choose Source Com1 and Dest 1 Com20 and Dest 2 Com30 and Dest 3 COM40
 4. press Start Routing
-5.  now you can use COM2 on app1 and on COM3 app2 in PC1 and use any telnet software using PC1 Ip (like Putty) and port 23 to get serial data routed from PC1 
+5. PC1 consider as a server and PC2 as a client 
+6.  now you can use COM2 on app1 and on COM3 app2 in PC1 and use any telnet software using PC1 IP (like Putty) and port 23 to get serial data routed from PC1 
