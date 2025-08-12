@@ -68,6 +68,4 @@ Setup for using 2 application in two PC windows in same network:
 
 amin_khalafi@yahoo.com
 
-Hardware & Embedded Systems Specialist
-
 Reach out via GitHub or email if you'd like to collaborate!
